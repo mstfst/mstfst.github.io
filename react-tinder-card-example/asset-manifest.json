@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-tinder-card-demo/static/css/main.e778c8d2.chunk.css",
+    "main.js": "/react-tinder-card-demo/static/js/main.59c0dfca.chunk.js",
+    "main.js.map": "/react-tinder-card-demo/static/js/main.59c0dfca.chunk.js.map",
+    "runtime-main.js": "/react-tinder-card-demo/static/js/runtime-main.973bd8d6.js",
+    "runtime-main.js.map": "/react-tinder-card-demo/static/js/runtime-main.973bd8d6.js.map",
+    "static/js/2.0f13b27d.chunk.js": "/react-tinder-card-demo/static/js/2.0f13b27d.chunk.js",
+    "static/js/2.0f13b27d.chunk.js.map": "/react-tinder-card-demo/static/js/2.0f13b27d.chunk.js.map",
+    "index.html": "/react-tinder-card-demo/index.html",
+    "precache-manifest.e41daf638297cc1b7cd8dc05f56be79b.js": "/react-tinder-card-demo/precache-manifest.e41daf638297cc1b7cd8dc05f56be79b.js",
+    "service-worker.js": "/react-tinder-card-demo/service-worker.js",
+    "static/css/main.e778c8d2.chunk.css.map": "/react-tinder-card-demo/static/css/main.e778c8d2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.973bd8d6.js",
+    "static/js/2.0f13b27d.chunk.js",
+    "static/css/main.e778c8d2.chunk.css",
+    "static/js/main.59c0dfca.chunk.js"
+  ]
+}
